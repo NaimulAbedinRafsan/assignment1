@@ -1,0 +1,26 @@
+body{
+    font-family: noto;
+}
+h1{
+    text-align: center;
+    font-weight: 1000;
+    font-family: white;
+
+}
+h3{
+    text-align: center;
+    font-weight: 700;
+}
+a{
+    text-align: center;
+}
+.link{
+   padding: 10px 40px;
+   color:white;
+   background-color: tomato;
+   text-decoration:none;
+   text-align: center;
+}
+.first{
+    background-image: url(images/pic1.jpg);
+}
