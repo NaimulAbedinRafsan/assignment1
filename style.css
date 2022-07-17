@@ -58,10 +58,6 @@ h2{
 #bbb{
     background-color: tomato;
 }
-hr{
-    margin-left: 50%;
-    margin-right: 50%;
-}
 .third{
     text-align: center;
     margin-top: 100px;
@@ -96,5 +92,58 @@ h4{
     border: 10px solid pink;
     background-color: pink;
     border-radius: 5px;
-
+}
+.help{
+    width: 50%;
+    margin-top: 100px;
+    padding: 20px;
+    
+}
+.help img{
+    width: 75%;
+}
+h1{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.mail{
+    margin-right: 50%;
+    margin-left: 50%;
+    display: flex;
+    margin-top: 50px;
+    background-color: yellow;
+}
+.Email{
+    background-color: gray;
+    color: aliceblue;
+    font-size: medium;
+    color: aliceblue;
+    margin-left: 35%;
+}
+.let{
+    background-color: tomato;
+    color: aliceblue;
+    font-size: medium;
+    color: aliceblue;
+}
+.parg{
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 500;
+    border: 20px solid black;
+    background-color: black;
+    color: aliceblue;
+}
+span{
+    color: tomato;
+}
+.other{
+    font-size: medium;
+    margin-right: 55%;
+    margin-left: 41%;
+    background-color:aquamarine;
+    min-height: 35px;
+    width: 260px;
+    text-align: center;
 }
